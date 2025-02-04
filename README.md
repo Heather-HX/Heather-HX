@@ -4,7 +4,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Heather-HX/Heather-HX/output/github-contribution-grid-snake.svg">
 </picture>
 <!--
-**NaomiHX/NaomiHX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Heather/HeatherHX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/HeaX24)
 
 Here are some ideas to get you started:
 
