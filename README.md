@@ -7,6 +7,7 @@
 **Heather/HeatherHX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <img src="https://leetcard.jacoblin.cool/HeaX24?theme=nord" alt="LeetCode Stats" width="400">
+<img src="https://leetcard.jacoblin.cool/HeaX24?theme=nord&no-avatar=true" alt="LeetCode Stats" width="400">
 
 
 
